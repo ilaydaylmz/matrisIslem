@@ -1,4 +1,4 @@
-# matris_islem
+# MATRİS İŞLEMLERİ
 Matris işlemleri gerçekleştiren statik bir sınıf yazınız
 Matris yazdırma metodu
 Matris toplama metodu
